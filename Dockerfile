@@ -1,4 +1,4 @@
-from node:12
+from ubi9/nodejs-18
 
 WORKDIR /usr/src/app
 
